@@ -1,1 +1,3 @@
 carprice-env/
+.vscode/
+app/__pycache__/
